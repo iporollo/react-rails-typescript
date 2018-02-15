@@ -1,0 +1,19 @@
+{
+  "name": "ReactRailsTypescript",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.2.2",
+    "@types/react": "^16.0.38",
+    "@types/react-dom": "^16.0.4",
+    "babel-preset-react": "^6.24.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react_ujs": "^2.4.3",
+    "ts-loader": "^3.5.0",
+    "typescript": "^2.7.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.11.1"
+  }
+}
